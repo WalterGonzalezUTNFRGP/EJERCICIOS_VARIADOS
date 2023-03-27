@@ -1,0 +1,10 @@
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.csproj.AssemblyReference.cache
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.Form1.resources
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.Properties.Resources.resources
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.csproj.GenerateResource.cache
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Walter\Documents\PRACTICA_GRUPAL\Practica5\Practica5\obj\Debug\Practica5.pdb
